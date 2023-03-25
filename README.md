@@ -1,5 +1,12 @@
 # MediaQueriesHandler
 
+Use in js file
+```js
+
+<script src="https://media-queries-handler.s3.amazonaws.com/media-queries-handler-1.0.0.min.js"></script>
+
+```
+
 
 
 ```js
